@@ -1,7 +1,8 @@
 # Rich Off Adrenaline Media
 
-Public delivery assets for the approved three-post TikTok launch beginning July 24, 2026.
+Public delivery assets for Rich Off Adrenaline TikTok publishing.
 
-- Three 10-second vertical MP4 videos.
+- Ten-second vertical MP4 videos.
 - No identifiable faces, drug/substance footage, or nightlife footage.
-- Text is baked into the video so Buffer notification publishing only needs native audio selection.
+- Assets `01`–`09` are retired automatic-publishing tests.
+- `10-native-lambo-proof.mp4` is a silent, text-free notification master. It requires TikTok-native `Modern` text and a live sound before publishing.
